@@ -1,0 +1,10 @@
+C:\Users\pruwanpa\source\repos\IntegrateSalesforceRESTApi\IntegrateSalesforceRESTApi\bin\Debug\IntegrateSalesforceRESTApi.exe.config
+C:\Users\pruwanpa\source\repos\IntegrateSalesforceRESTApi\IntegrateSalesforceRESTApi\bin\Debug\IntegrateSalesforceRESTApi.exe
+C:\Users\pruwanpa\source\repos\IntegrateSalesforceRESTApi\IntegrateSalesforceRESTApi\bin\Debug\IntegrateSalesforceRESTApi.pdb
+C:\Users\pruwanpa\source\repos\IntegrateSalesforceRESTApi\IntegrateSalesforceRESTApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pruwanpa\source\repos\IntegrateSalesforceRESTApi\IntegrateSalesforceRESTApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pruwanpa\source\repos\IntegrateSalesforceRESTApi\IntegrateSalesforceRESTApi\obj\Debug\IntegrateSalesforceRESTApi.csprojAssemblyReference.cache
+C:\Users\pruwanpa\source\repos\IntegrateSalesforceRESTApi\IntegrateSalesforceRESTApi\obj\Debug\IntegrateSalesforceRESTApi.csproj.CoreCompileInputs.cache
+C:\Users\pruwanpa\source\repos\IntegrateSalesforceRESTApi\IntegrateSalesforceRESTApi\obj\Debug\IntegrateSalesforceRESTApi.csproj.CopyComplete
+C:\Users\pruwanpa\source\repos\IntegrateSalesforceRESTApi\IntegrateSalesforceRESTApi\obj\Debug\IntegrateSalesforceRESTApi.exe
+C:\Users\pruwanpa\source\repos\IntegrateSalesforceRESTApi\IntegrateSalesforceRESTApi\obj\Debug\IntegrateSalesforceRESTApi.pdb
